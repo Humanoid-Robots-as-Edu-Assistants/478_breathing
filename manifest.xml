@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.1" installOnlyAtStartup="false" uuid="breathingwithnaoupdated-5c74ff">
+ <names>
+  <name lang="en_US">Breathing With Nao</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">A short breathing exercise, in which Nao guides students through the 4-7-8 technique.</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">breathing</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+ <requirements>
+  <naoqiRequirement minVersion="2.8"/>
+  <robotRequirement model="NAO"/>
+ </requirements>
+</package>
