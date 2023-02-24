@@ -1,4 +1,4 @@
-# 4-7-8-Breathing Szenario for NAO Robot [v.1.0]
+# "4-7-8-Breathing" for NAO robot [v.1.0]
 *This project is available in german and english, with an additional possibility of continuation in german, in case the same exercise is done multiple times with the same group.*<br>
 
 ### About
@@ -22,6 +22,8 @@ You only need your NAO robot.
 ### Plans of further development:
 
 We currently have no plans to further develop the program.
+
+### Choregraphe screenshot:
 
 ---
 
