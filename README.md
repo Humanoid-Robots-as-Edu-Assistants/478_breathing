@@ -24,6 +24,7 @@ You only need your NAO robot.
 We currently have no plans to further develop the program.
 
 ### Choregraphe screenshot:
+![WhatsApp Image 2023-02-27 at 14 25 30](https://user-images.githubusercontent.com/68842909/221846669-239f1793-a7d9-4053-a041-d3d6bbd93bc5.jpeg)
 
 ---
 
