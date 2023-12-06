@@ -9,10 +9,9 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Great! Then let's begin.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Great! Then let's begin.</translation>
+            <translation type="obsolete">Great! Then let's begin.</translation>
         </message>
     </context>
     <context>
@@ -28,19 +27,17 @@
             <translation type="obsolete">Very nice! I feel very relaxed now, I hope you do too.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Very nice! I feel very relaxed now. I hope you do too.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Very nice! I feel very relaxed now. I hope you do too.</translation>
+            <translation type="obsolete">Very nice! I feel very relaxed now. I hope you do too.</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/Animated Say (2)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>I hope to see you again soon! Bye Bye</source>
             <comment>Text</comment>
-            <translation type="unfinished">I hope to see you again soon! Bye Bye</translation>
+            <translation type="obsolete">I hope to see you again soon! Bye Bye</translation>
         </message>
     </context>
     <context>
@@ -51,10 +48,9 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Good job! Let’s do that again, but this time try to put your attention on where you feel your breathing the most...for example your nose...and how the air goes through it...or your chest...and how it moves with each breath.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Good job! Let’s do that again, but this time try to put your attention on where you feel your breathing the most...for example your nose...and how the air goes through it...or your chest...and how it moves with each breath.</translation>
+            <translation type="obsolete">Good job! Let’s do that again, but this time try to put your attention on where you feel your breathing the most...for example your nose...and how the air goes through it...or your chest...and how it moves with each breath.</translation>
         </message>
     </context>
     <context>
@@ -65,10 +61,9 @@
             <translation type="obsolete">Great! Then let's begin.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Sehr gut! Dann lasst uns anfangen.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sehr gut! Dann lasst uns anfangen.</translation>
+            <translation type="obsolete">Sehr gut! Dann lasst uns anfangen.</translation>
         </message>
     </context>
     <context>
@@ -79,10 +74,22 @@
             <translation type="obsolete">Good job! Let’s do that again, but this time try to put your attention on where you feel your breathing the most...for example your nose...and how the air goes through it...or your chest...and how it moves with each breath.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Sehr gut! Versucht jetzt wieder euren Fokus auf eure Nase oder Brust zu setzen, und jedem Atem einzeln zu folgen.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sehr gut! Versucht jetzt wieder euren Fokus auf eure Nase oder Brust zu setzen, und jedem Atem einzeln zu folgen.</translation>
+            <translation type="obsolete">Sehr gut! Versucht jetzt wieder euren Fokus auf eure Nase oder Brust zu setzen, und jedem Atem einzeln zu folgen.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Animated Say (6)</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hello</translation>
+        </message>
+        <message>
+            <source>Habt ihr die Übung schonmal gemacht? Wenn ja, dann drück meinen blauen Fuß Knopf, wenn nicht, dann meinen roten.</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Habt ihr die Übung schonmal gemacht? Wenn ja, dann drück meinen blauen Fuß Knopf, wenn nicht, dann meinen roten.</translation>
         </message>
     </context>
     <context>
@@ -999,6 +1006,12 @@
             <comment>Text</comment>
             <translation type="unfinished">Do you want to repeat the exercise? If you do, press my blue bumper. If you don't, press the red one.</translation>
         </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Very nice! I feel very relaxed now. I hope you do too.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Very nice! I feel very relaxed now. I hope you do too.</translation>
+        </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/End of Exercise/Animated Say (2)</name>
@@ -1013,6 +1026,12 @@
             <comment>Text</comment>
             <translation type="unfinished">Okay! I hope to see you again soon! Bye Bye</translation>
         </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>I hope to see you again soon! Bye Bye</source>
+            <comment>Text</comment>
+            <translation type="unfinished">I hope to see you again soon! Bye Bye</translation>
+        </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/End of Exercise/Goodbyes/ByeBye</name>
@@ -1025,19 +1044,17 @@
     <context>
         <name>behavior_1/behavior.xar:/Go-ahead</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>When I start counting, breathe in slowly!</source>
             <comment>Text</comment>
-            <translation type="unfinished">When I start counting, breathe in slowly!</translation>
+            <translation type="obsolete">When I start counting, breathe in slowly!</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/Go-ahead (1)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Again, breathe in slowly.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Again, breathe in slowly.</translation>
+            <translation type="obsolete">Again, breathe in slowly.</translation>
         </message>
     </context>
     <context>
@@ -1053,10 +1070,9 @@
             <translation type="obsolete">Wenn ich anfange zu zählen, atmet langsam ein!</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Wenn der Gong ertönt, atmet langsam ein.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Wenn der Gong ertönt, atmet langsam ein.</translation>
+            <translation type="obsolete">Wenn der Gong ertönt, atmet langsam ein.</translation>
         </message>
     </context>
     <context>
@@ -1067,10 +1083,9 @@
             <translation type="obsolete">Again, breathe in slowly.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Atmet wieder langsam ein!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Atmet wieder langsam ein!</translation>
+            <translation type="obsolete">Atmet wieder langsam ein!</translation>
         </message>
     </context>
     <context>
@@ -1079,6 +1094,82 @@
             <source>Alright! I hope to see you again soon! bye bye</source>
             <comment>Text</comment>
             <translation type="obsolete">Alright! I hope to see you again soon! bye bye</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Intro DE/Animated Say (6)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Habt ihr die Übung schonmal gemacht? Wenn ja, dann drück meinen blauen Fuß Knopf, wenn nicht, dann meinen roten.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Habt ihr die Übung schonmal gemacht? Wenn ja, dann drück meinen blauen Fuß Knopf, wenn nicht, dann meinen roten.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Intro DE/Introduction (1)/Animated Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Hallo! Willkommen zu Atmen und Entspannen mit Nao... Heute leite ich euch durch die vier sieben acht Atemübung.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Hallo! Willkommen zu Atmen und Entspannen mit Nao... Heute leite ich euch durch die vier sieben acht Atemübung.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Intro DE/Introduction (2)/Intro2 (1)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Diese Übung soll helfen, besser mit Stress umzugehen und dich in bestimmten Situationen zu entspannen. Sie funktioniert 
+so: atme für vier Sekunden durch die Nase ein... halte den Atem für sieben Sekunden an... und atme für acht Sekunden
+durch den Mund aus. Ich werde die Sekunden für euch zählen, damit ihr euch auf euren Atem fokussieren könnt.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Diese Übung soll helfen, besser mit Stress umzugehen und dich in bestimmten Situationen zu entspannen. Sie funktioniert 
+so: atme für vier Sekunden durch die Nase ein... halte den Atem für sieben Sekunden an... und atme für acht Sekunden
+durch den Mund aus. Ich werde die Sekunden für euch zählen, damit ihr euch auf euren Atem fokussieren könnt.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Intro DE/Introduction (2)/Introduction</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Hallo! Willkommen zu Atmen und Entspannen mit Nao... Heute leite ich euch durch die vier sieben acht Atemübung.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Hallo! Willkommen zu Atmen und Entspannen mit Nao... Heute leite ich euch durch die vier sieben acht Atemübung.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Intro DE/Timeline (1)/behavior_layer2/keyframe1/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Oder du. Oder du?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Oder du. Oder du?</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Intro DE/Timeline/behavior_layer2/keyframe1/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Weißt du es noch?... Oder du?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Weißt du es noch?... Oder du?</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Intro EN/Introduction/Intro2 (1)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>It is supposed to help with anxiety and calm you down, when you feel stressed. It works like this...breathe in through your nose for four seconds... hold your breath for seven seconds... and slowly breathe out through your mouth for eight seconds. I will count for you, so that you can focus on your breathing.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">It is supposed to help with anxiety and calm you down, when you feel stressed. It works like this...breathe in through your nose for four seconds... hold your breath for seven seconds... and slowly breathe out through your mouth for eight seconds. I will count for you, so that you can focus on your breathing.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Intro EN/Introduction/Introduction</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Hello! Welcome to Breathe and Relax with Nao...Today I will guide you through a short breathing exercise, called the 4-7-8 technique.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Hello! Welcome to Breathe and Relax with Nao...Today I will guide you through a short breathing exercise, called the 4-7-8 technique.</translation>
         </message>
     </context>
     <context>
@@ -1099,10 +1190,9 @@
             <translation type="obsolete">Hallo! Willkommen zur Atemübung mit mir, NAO. Ich bin froh, euch alle heute wieder zu sehen. Wir machen heute wieder die 4 7 8 Atemübung.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Hallo! Willkommen zu Atmen und Entspannen mit Nao... Heute leite ich euch durch die vier sieben acht Atemübung.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Hallo! Willkommen zu Atmen und Entspannen mit Nao... Heute leite ich euch durch die vier sieben acht Atemübung.</translation>
+            <translation type="obsolete">Hallo! Willkommen zu Atmen und Entspannen mit Nao... Heute leite ich euch durch die vier sieben acht Atemübung.</translation>
         </message>
     </context>
     <context>
@@ -1152,12 +1242,11 @@
     <context>
         <name>behavior_1/behavior.xar:/Introduction (2)/Intro2 (1)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Diese Übung soll helfen, besser mit Stress umzugehen und dich in bestimmten Situationen zu entspannen. Sie funktioniert 
 so: atme für vier Sekunden durch die Nase ein... halte den Atem für sieben Sekunden an... und atme für acht Sekunden
 durch den Mund aus. Ich werde die Sekunden für euch zählen, damit ihr euch auf euren Atem fokussieren könnt.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Diese Übung soll helfen, besser mit Stress umzugehen und dich in bestimmten Situationen zu entspannen. Sie funktioniert 
+            <translation type="obsolete">Diese Übung soll helfen, besser mit Stress umzugehen und dich in bestimmten Situationen zu entspannen. Sie funktioniert 
 so: atme für vier Sekunden durch die Nase ein... halte den Atem für sieben Sekunden an... und atme für acht Sekunden
 durch den Mund aus. Ich werde die Sekunden für euch zählen, damit ihr euch auf euren Atem fokussieren könnt.</translation>
         </message>
@@ -1165,28 +1254,79 @@ durch den Mund aus. Ich werde die Sekunden für euch zählen, damit ihr euch auf
     <context>
         <name>behavior_1/behavior.xar:/Introduction (2)/Introduction</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Hallo! Willkommen zu Atmen und Entspannen mit Nao... Heute leite ich euch durch die vier sieben acht Atemübung.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Hallo! Willkommen zu Atmen und Entspannen mit Nao... Heute leite ich euch durch die vier sieben acht Atemübung.</translation>
+            <translation type="obsolete">Hallo! Willkommen zu Atmen und Entspannen mit Nao... Heute leite ich euch durch die vier sieben acht Atemübung.</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/Introduction/Intro2 (1)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>It is supposed to help with anxiety and calm you down, when you feel stressed. It works like this...breathe in through your nose for four seconds... hold your breath for seven seconds... and slowly breathe out through your mouth for eight seconds. I will count for you, so that you can focus on your breathing.</source>
             <comment>Text</comment>
-            <translation type="unfinished">It is supposed to help with anxiety and calm you down, when you feel stressed. It works like this...breathe in through your nose for four seconds... hold your breath for seven seconds... and slowly breathe out through your mouth for eight seconds. I will count for you, so that you can focus on your breathing.</translation>
+            <translation type="obsolete">It is supposed to help with anxiety and calm you down, when you feel stressed. It works like this...breathe in through your nose for four seconds... hold your breath for seven seconds... and slowly breathe out through your mouth for eight seconds. I will count for you, so that you can focus on your breathing.</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/Introduction/Introduction</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Hello! Welcome to Breathe and Relax with Nao...Today I will guide you through a short breathing exercise, called the 4-7-8 technique.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Hello! Welcome to Breathe and Relax with Nao...Today I will guide you through a short breathing exercise, called the 4-7-8 technique.</translation>
+            <translation type="obsolete">Hello! Welcome to Breathe and Relax with Nao...Today I will guide you through a short breathing exercise, called the 4-7-8 technique.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Preparation/Animated Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Great! Then let's begin.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Great! Then let's begin.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Preparation/Go-ahead</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>When I start counting, breathe in slowly!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">When I start counting, breathe in slowly!</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Refocus/Animated Say (3)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Good job! Let’s do that again, but this time try to put your attention on where you feel your breathing the most...for example your nose...and how the air goes through it...or your chest...and how it moves with each breath.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Good job! Let’s do that again, but this time try to put your attention on where you feel your breathing the most...for example your nose...and how the air goes through it...or your chest...and how it moves with each breath.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Refocus/Go-ahead (1)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Again, breathe in slowly.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Again, breathe in slowly.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Refokussierung/Animated Say (5)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Sehr gut! Versucht jetzt wieder euren Fokus auf eure Nase oder Brust zu setzen, und jedem Atem einzeln zu folgen.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sehr gut! Versucht jetzt wieder euren Fokus auf eure Nase oder Brust zu setzen, und jedem Atem einzeln zu folgen.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Refokussierung/Go-ahead (3)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Atmet wieder langsam ein!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Atmet wieder langsam ein!</translation>
         </message>
     </context>
     <context>
@@ -1329,10 +1469,9 @@ durch den Mund aus. Ich werde die Sekunden für euch zählen, damit ihr euch auf
             <translation type="obsolete">Oder du.......... Oder du?</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Oder du. Oder du?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Oder du. Oder du?</translation>
+            <translation type="obsolete">Oder du. Oder du?</translation>
         </message>
     </context>
     <context>
@@ -1343,10 +1482,27 @@ durch den Mund aus. Ich werde die Sekunden für euch zählen, damit ihr euch auf
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Weißt du es noch?... Oder du?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Weißt du es noch?... Oder du?</translation>
+            <translation type="obsolete">Weißt du es noch?... Oder du?</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Vorbereitung/Animated Say (4)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Sehr gut! Dann lasst uns anfangen.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sehr gut! Dann lasst uns anfangen.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Vorbereitung/Go-ahead (2)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Wenn der Gong ertönt, atmet langsam ein.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Wenn der Gong ertönt, atmet langsam ein.</translation>
         </message>
     </context>
 </TS>

@@ -1,16 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.1" installOnlyAtStartup="false" uuid="breathingwithnaoupdated-5c74ff">
+<package version="1.0.0" uuid="4-7-8-breathingv10-c0cf75" installOnlyAtStartup="false">
  <names>
-  <name lang="en_US">Breathing With Nao</name>
+  <name lang="en_US">4-7-8-breathing</name>
  </names>
  <descriptions>
   <description lang="en_US">A short breathing exercise, in which Nao guides students through the 4-7-8 technique.</description>
  </descriptions>
  <supportedLanguages>
   <language>en_US</language>
+  <language>de_DE</language>
  </supportedLanguages>
  <descriptionLanguages>
   <language>en_US</language>
+  <language>de_DE</language>
  </descriptionLanguages>
  <contents>
   <behaviorContent path="behavior_1">
@@ -19,6 +21,7 @@
    <names>
     <name lang="en_US">breathing</name>
    </names>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
